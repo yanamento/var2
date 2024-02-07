@@ -86,6 +86,7 @@ public class Main {
         int differenceDen = denYear2 - denYear1;
         System.out.println("Денис теперь получает " + den2 + " рублей. Годовой доход вырос на " + differenceDen + " рублей");
         int kris1 = 76230;
+
         int krisYear1 = kris1 * 12;
         int kris2 = kris1 + (kris1 / 10);
         int krisYear2 = kris2 * 12;
