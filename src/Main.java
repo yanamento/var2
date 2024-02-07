@@ -72,6 +72,7 @@ public class Main {
         int middle = (daysVar1 + daysVar2) / 2;
         System.out.println("За " + middle + " день спортсмен сбросит 7 килограмм, если каждый день будет терять 375 грамм в день");
 
+
         int masha1 = 67760;
         int mashaYear1 = masha1 * 12;
         int masha2 = masha1 + (masha1 / 10);
