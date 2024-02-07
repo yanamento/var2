@@ -9,6 +9,7 @@ public class Main {
         long pill = 5000000;
         System.out.println(pill);
         float salt = 6.7f;
+
         System.out.println(salt);
         double pepper = 15.95555555555;
         System.out.println(pepper);
