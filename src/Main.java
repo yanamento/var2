@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        byte egg = 5;
-        System.out.println(egg);
+        byte wins = 5;
+        System.out.println(wins);
         short dog = 280;
         System.out.println(dog);
         int cat = 10000;
