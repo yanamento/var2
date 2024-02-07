@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        byte egg = 5;
-        System.out.println(egg);
+        byte wins = 5;
+        System.out.println(wins);
         short dog = 280;
         System.out.println(dog);
         int cat = 10000;
@@ -9,6 +9,7 @@ public class Main {
         long pill = 5000000;
         System.out.println(pill);
         float salt = 6.7f;
+
         System.out.println(salt);
         double pepper = 15.95555555555;
         System.out.println(pepper);
@@ -72,6 +73,7 @@ public class Main {
         int middle = (daysVar1 + daysVar2) / 2;
         System.out.println("За " + middle + " день спортсмен сбросит 7 килограмм, если каждый день будет терять 375 грамм в день");
 
+
         int masha1 = 67760;
         int mashaYear1 = masha1 * 12;
         int masha2 = masha1 + (masha1 / 10);
@@ -85,6 +87,7 @@ public class Main {
         int differenceDen = denYear2 - denYear1;
         System.out.println("Денис теперь получает " + den2 + " рублей. Годовой доход вырос на " + differenceDen + " рублей");
         int kris1 = 76230;
+
         int krisYear1 = kris1 * 12;
         int kris2 = kris1 + (kris1 / 10);
         int krisYear2 = kris2 * 12;
